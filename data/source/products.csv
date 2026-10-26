@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,price
+1,Samsung Product 1,TV,Samsung,45057
+2,Puma Product 2,Fashion,Puma,87492
+3,Tata Product 3,Groceries,Tata,12219
+4,Aashirvaad Product 4,Groceries,Aashirvaad,81225
+5,Samsung Product 5,TV,Samsung,23043
+6,Puma Product 6,Fashion,Puma,43667
+7,LG Product 7,TV,LG,81581
+8,Nike Product 8,Fashion,Nike,13815
+9,Sony Product 9,Headphones,Sony,72048
+10,Samsung Product 10,TV,Samsung,26688
+11,Levis Product 11,Fashion,Levis,49643
+12,Puma Product 12,Fashion,Puma,32835
+13,Oppo Product 13,Mobile,Oppo,30013
+14,HP Product 14,Laptop,HP,43333
+15,Levis Product 15,Fashion,Levis,11545
+16,Samsung Product 16,TV,Samsung,84698
+17,Dell Product 17,Laptop,Dell,22321
+18,Adidas Product 18,Footwear,Adidas,9157
+19,Samsung Product 19,TV,Samsung,72375
+20,Vivo Product 20,Mobile,Vivo,37269
+21,Vivo Product 21,Mobile,Vivo,53653
+22,Tata Product 22,Groceries,Tata,88789
+23,Puma Product 23,Fashion,Puma,67260
+24,Boat Product 24,Headphones,Boat,743
+25,LG Product 25,TV,LG,29523
+26,Samsung Product 26,Mobile,Samsung,45425
+27,Adidas Product 27,Footwear,Adidas,72077
+28,IFB Product 28,Home Appliances,IFB,71829
+29,Oppo Product 29,Mobile,Oppo,14241
+30,Levis Product 30,Fashion,Levis,935
+31,Fortune Product 31,Groceries,Fortune,59802
+32,Oppo Product 32,Mobile,Oppo,43015
+33,Puma Product 33,Fashion,Puma,99162
+34,Sony Product 34,TV,Sony,81625
+35,Levis Product 35,Fashion,Levis,62301
+36,HP Product 36,Laptop,HP,39106
+37,Tata Product 37,Groceries,Tata,88005
+38,Puma Product 38,Fashion,Puma,47125
+39,Sony Product 39,TV,Sony,89877
+40,Adidas Product 40,Footwear,Adidas,26327
+41,JBL Product 41,Headphones,JBL,35980
+42,Nike Product 42,Footwear,Nike,95958
+43,LG Product 43,Home Appliances,LG,9059
+44,Dell Product 44,Laptop,Dell,51903
+45,Whirlpool Product 45,Home Appliances,Whirlpool,86126
+46,Sony Product 46,Headphones,Sony,41132
+47,LG Product 47,TV,LG,78510
+48,Aashirvaad Product 48,Groceries,Aashirvaad,92761
+49,Xiaomi Product 49,Mobile,Xiaomi,70093
+50,Levis Product 50,Fashion,Levis,88323
+51,Puma Product 51,Footwear,Puma,30267
+52,Xiaomi Product 52,Mobile,Xiaomi,16923
+53,Puma Product 53,Footwear,Puma,23625
+54,Adidas Product 54,Footwear,Adidas,56065
+55,Levis Product 55,Fashion,Levis,40784
+56,HP Product 56,Laptop,HP,85109
+57,Levis Product 57,Fashion,Levis,34190
+58,Puma Product 58,Fashion,Puma,81412
+59,Aashirvaad Product 59,Groceries,Aashirvaad,82288
+60,Dell Product 60,Laptop,Dell,39471
+61,Apple Product 61,Laptop,Apple,87357
+62,Adidas Product 62,Footwear,Adidas,21495
+63,Nike Product 63,Fashion,Nike,1393
+64,OnePlus Product 64,Mobile,OnePlus,37122
+65,Levis Product 65,Fashion,Levis,81756
+66,Puma Product 66,Footwear,Puma,54890
+67,Puma Product 67,Fashion,Puma,86270
+68,LG Product 68,TV,LG,22667
+69,Samsung Product 69,Mobile,Samsung,88099
+70,Nike Product 70,Footwear,Nike,42522
+71,Puma Product 71,Fashion,Puma,6225
+72,Nike Product 72,Fashion,Nike,98118
+73,Boat Product 73,Headphones,Boat,25361
+74,HP Product 74,Laptop,HP,40752
+75,Nike Product 75,Fashion,Nike,86417
+76,Nike Product 76,Fashion,Nike,16448
+77,IFB Product 77,Home Appliances,IFB,78937
+78,Sony Product 78,Headphones,Sony,95327
+79,Aashirvaad Product 79,Groceries,Aashirvaad,55386
+80,Aashirvaad Product 80,Groceries,Aashirvaad,7654
+81,Dell Product 81,Laptop,Dell,14243
+82,Nike Product 82,Footwear,Nike,74928
+83,LG Product 83,Home Appliances,LG,92962
+84,Nike Product 84,Fashion,Nike,44770
+85,LG Product 85,Home Appliances,LG,86848
+86,Asus Product 86,Laptop,Asus,11902
+87,Puma Product 87,Footwear,Puma,57047
+88,Apple Product 88,Mobile,Apple,71000
+89,LG Product 89,TV,LG,75290
+90,Boat Product 90,Headphones,Boat,40336
+91,Fortune Product 91,Groceries,Fortune,75333
+92,Lenovo Product 92,Laptop,Lenovo,3120
+93,Dell Product 93,Laptop,Dell,19699
+94,Sony Product 94,TV,Sony,61307
+95,Boat Product 95,Headphones,Boat,7466
+96,Nike Product 96,Footwear,Nike,57789
+97,Tata Product 97,Groceries,Tata,37203
+98,Nike Product 98,Footwear,Nike,16133
+99,Puma Product 99,Fashion,Puma,98529
+100,LG Product 100,Home Appliances,LG,84313
+101,Fortune Product 101,Groceries,Fortune,60385
+102,Levis Product 102,Fashion,Levis,19988
+103,LG Product 103,TV,LG,88538
+104,Asus Product 104,Laptop,Asus,94899
+105,Whirlpool Product 105,Home Appliances,Whirlpool,21847
+106,Whirlpool Product 106,Home Appliances,Whirlpool,40496
+107,LG Product 107,Home Appliances,LG,1164
+108,Oppo Product 108,Mobile,Oppo,21678
+109,Boat Product 109,Headphones,Boat,19175
+110,Sony Product 110,TV,Sony,65849
+111,Asus Product 111,Laptop,Asus,94152
+112,JBL Product 112,Headphones,JBL,68001
+113,Apple Product 113,Laptop,Apple,62579
+114,LG Product 114,Home Appliances,LG,48771
+115,IFB Product 115,Home Appliances,IFB,19463
+116,JBL Product 116,Headphones,JBL,32580
+117,IFB Product 117,Home Appliances,IFB,43952
+118,Nike Product 118,Footwear,Nike,47412
+119,Nike Product 119,Fashion,Nike,18081
+120,Whirlpool Product 120,Home Appliances,Whirlpool,64514
+121,Sony Product 121,Headphones,Sony,39850
+122,Boat Product 122,Headphones,Boat,25634
+123,IFB Product 123,Home Appliances,IFB,56177
+124,Dell Product 124,Laptop,Dell,90854
+125,Apple Product 125,Mobile,Apple,88707
+126,Puma Product 126,Footwear,Puma,10884
+127,Sony Product 127,Headphones,Sony,26265
+128,Sony Product 128,TV,Sony,56321
+129,Puma Product 129,Footwear,Puma,76189
+130,Samsung Product 130,TV,Samsung,71640
+131,Sony Product 131,Headphones,Sony,6047
+132,Vivo Product 132,Mobile,Vivo,23460
+133,Tata Product 133,Groceries,Tata,72782
+134,Vivo Product 134,Mobile,Vivo,16819
+135,Fortune Product 135,Groceries,Fortune,13577
+136,Apple Product 136,Mobile,Apple,13462
+137,HP Product 137,Laptop,HP,67523
+138,Boat Product 138,Headphones,Boat,7399
+139,Samsung Product 139,TV,Samsung,64614
+140,Levis Product 140,Fashion,Levis,15586
+141,Sony Product 141,Headphones,Sony,2118
+142,Levis Product 142,Fashion,Levis,78560
+143,LG Product 143,Home Appliances,LG,53509
+144,Nike Product 144,Fashion,Nike,46830
+145,Vivo Product 145,Mobile,Vivo,40600
+146,Puma Product 146,Fashion,Puma,41565
+147,Samsung Product 147,TV,Samsung,35425
+148,Tata Product 148,Groceries,Tata,14400
+149,OnePlus Product 149,Mobile,OnePlus,9909
+150,Adidas Product 150,Footwear,Adidas,57967
+151,Puma Product 151,Fashion,Puma,78659
+152,Aashirvaad Product 152,Groceries,Aashirvaad,3239
+153,Samsung Product 153,TV,Samsung,58261
+154,Samsung Product 154,TV,Samsung,35855
+155,Boat Product 155,Headphones,Boat,17465
+156,Puma Product 156,Footwear,Puma,11236
+157,Aashirvaad Product 157,Groceries,Aashirvaad,19798
+158,Nike Product 158,Footwear,Nike,3910
+159,Puma Product 159,Footwear,Puma,17755
+160,Puma Product 160,Fashion,Puma,79983
+161,Boat Product 161,Headphones,Boat,22896
+162,Nike Product 162,Footwear,Nike,21388
+163,Puma Product 163,Fashion,Puma,69992
+164,Aashirvaad Product 164,Groceries,Aashirvaad,26584
+165,Sony Product 165,TV,Sony,42492
+166,Puma Product 166,Footwear,Puma,83716
+167,Apple Product 167,Mobile,Apple,18478
+168,Vivo Product 168,Mobile,Vivo,29274
+169,Sony Product 169,Headphones,Sony,41558
+170,Apple Product 170,Laptop,Apple,77449
+171,Puma Product 171,Footwear,Puma,19379
+172,Whirlpool Product 172,Home Appliances,Whirlpool,22156
+173,Puma Product 173,Footwear,Puma,97202
+174,OnePlus Product 174,Mobile,OnePlus,86938
+175,Boat Product 175,Headphones,Boat,65656
+176,Nike Product 176,Footwear,Nike,80606
+177,Puma Product 177,Footwear,Puma,39269
+178,Samsung Product 178,TV,Samsung,91923
+179,Apple Product 179,Laptop,Apple,99633
+180,Fortune Product 180,Groceries,Fortune,99838
+181,Aashirvaad Product 181,Groceries,Aashirvaad,11055
+182,Fortune Product 182,Groceries,Fortune,50689
+183,HP Product 183,Laptop,HP,63441
+184,Apple Product 184,Mobile,Apple,70017
+185,HP Product 185,Laptop,HP,97770
+186,Tata Product 186,Groceries,Tata,62222
+187,Whirlpool Product 187,Home Appliances,Whirlpool,21746
+188,Nike Product 188,Footwear,Nike,2055
+189,Levis Product 189,Fashion,Levis,15959
+190,Puma Product 190,Footwear,Puma,68723
+191,IFB Product 191,Home Appliances,IFB,74693
+192,Puma Product 192,Fashion,Puma,7736
+193,Puma Product 193,Fashion,Puma,82419
+194,Apple Product 194,Mobile,Apple,67156
+195,Nike Product 195,Fashion,Nike,84478
+196,Whirlpool Product 196,Home Appliances,Whirlpool,61609
+197,LG Product 197,TV,LG,65014
+198,IFB Product 198,Home Appliances,IFB,51799
+199,Sony Product 199,TV,Sony,6962
+200,Apple Product 200,Laptop,Apple,17146
+201,Nike Product 201,Footwear,Nike,69684
+202,Aashirvaad Product 202,Groceries,Aashirvaad,19499
+203,IFB Product 203,Home Appliances,IFB,78174
+204,Oppo Product 204,Mobile,Oppo,38276
+205,Nike Product 205,Fashion,Nike,86044
+206,LG Product 206,TV,LG,21634
+207,Samsung Product 207,TV,Samsung,92318
+208,Lenovo Product 208,Laptop,Lenovo,52691
+209,Boat Product 209,Headphones,Boat,74769
+210,Samsung Product 210,Mobile,Samsung,11065
+211,LG Product 211,Home Appliances,LG,93705
+212,Adidas Product 212,Footwear,Adidas,9957
+213,Asus Product 213,Laptop,Asus,99757
+214,JBL Product 214,Headphones,JBL,50145
+215,Whirlpool Product 215,Home Appliances,Whirlpool,30892
+216,Tata Product 216,Groceries,Tata,3082
+217,Aashirvaad Product 217,Groceries,Aashirvaad,51357
+218,Oppo Product 218,Mobile,Oppo,90845
+219,Nike Product 219,Fashion,Nike,58992
+220,Fortune Product 220,Groceries,Fortune,68487
+221,Aashirvaad Product 221,Groceries,Aashirvaad,48976
+222,Samsung Product 222,Mobile,Samsung,78990
+223,Boat Product 223,Headphones,Boat,90074
+224,IFB Product 224,Home Appliances,IFB,10318
+225,Whirlpool Product 225,Home Appliances,Whirlpool,73688
+226,Sony Product 226,Headphones,Sony,50960
+227,Puma Product 227,Footwear,Puma,54696
+228,Lenovo Product 228,Laptop,Lenovo,79059
+229,Dell Product 229,Laptop,Dell,68398
+230,Asus Product 230,Laptop,Asus,79986
+231,HP Product 231,Laptop,HP,78048
+232,Xiaomi Product 232,Mobile,Xiaomi,61290
+233,LG Product 233,TV,LG,54848
+234,Adidas Product 234,Footwear,Adidas,78641
+235,Sony Product 235,TV,Sony,82170
+236,Puma Product 236,Footwear,Puma,68416
+237,Samsung Product 237,TV,Samsung,85789
+238,Vivo Product 238,Mobile,Vivo,73579
+239,Nike Product 239,Fashion,Nike,69748
+240,HP Product 240,Laptop,HP,70414
+241,Samsung Product 241,Mobile,Samsung,75416
+242,Apple Product 242,Mobile,Apple,7024
+243,Asus Product 243,Laptop,Asus,88892
+244,Levis Product 244,Fashion,Levis,42950
+245,Tata Product 245,Groceries,Tata,66810
+246,HP Product 246,Laptop,HP,28329
+247,Sony Product 247,Headphones,Sony,37668
+248,Sony Product 248,Headphones,Sony,46292
+249,Apple Product 249,Mobile,Apple,79198
+250,Oppo Product 250,Mobile,Oppo,76441
+251,Tata Product 251,Groceries,Tata,90838
+252,Puma Product 252,Footwear,Puma,20785
+253,Aashirvaad Product 253,Groceries,Aashirvaad,88308
+254,Tata Product 254,Groceries,Tata,5888
+255,Whirlpool Product 255,Home Appliances,Whirlpool,7872
+256,Xiaomi Product 256,Mobile,Xiaomi,86252
+257,LG Product 257,TV,LG,48178
+258,Lenovo Product 258,Laptop,Lenovo,54455
+259,Puma Product 259,Footwear,Puma,90673
+260,HP Product 260,Laptop,HP,40689
+261,Adidas Product 261,Footwear,Adidas,72302
+262,Sony Product 262,Headphones,Sony,95935
+263,Apple Product 263,Laptop,Apple,22954
+264,Fortune Product 264,Groceries,Fortune,44129
+265,Tata Product 265,Groceries,Tata,98326
+266,Samsung Product 266,TV,Samsung,94533
+267,Puma Product 267,Fashion,Puma,91325
+268,Adidas Product 268,Footwear,Adidas,28730
+269,LG Product 269,Home Appliances,LG,84759
+270,Nike Product 270,Footwear,Nike,93730
+271,Aashirvaad Product 271,Groceries,Aashirvaad,34504
+272,LG Product 272,TV,LG,76759
+273,Levis Product 273,Fashion,Levis,15972
+274,Puma Product 274,Fashion,Puma,21354
+275,Oppo Product 275,Mobile,Oppo,91681
+276,HP Product 276,Laptop,HP,2939
+277,Levis Product 277,Fashion,Levis,62802
+278,Nike Product 278,Fashion,Nike,53317
+279,HP Product 279,Laptop,HP,76566
+280,Samsung Product 280,TV,Samsung,74361
+281,Xiaomi Product 281,Mobile,Xiaomi,5473
+282,IFB Product 282,Home Appliances,IFB,98506
+283,JBL Product 283,Headphones,JBL,49579
+284,Sony Product 284,TV,Sony,32303
+285,Tata Product 285,Groceries,Tata,91060
+286,LG Product 286,Home Appliances,LG,61206
+287,Puma Product 287,Fashion,Puma,39194
+288,JBL Product 288,Headphones,JBL,1040
+289,LG Product 289,Home Appliances,LG,50833
+290,LG Product 290,TV,LG,62104
+291,Puma Product 291,Footwear,Puma,38738
+292,Aashirvaad Product 292,Groceries,Aashirvaad,48642
+293,Nike Product 293,Footwear,Nike,14219
+294,Nike Product 294,Footwear,Nike,67934
+295,LG Product 295,Home Appliances,LG,70686
+296,Aashirvaad Product 296,Groceries,Aashirvaad,76705
+297,JBL Product 297,Headphones,JBL,95542
+298,Puma Product 298,Footwear,Puma,49895
+299,Boat Product 299,Headphones,Boat,63605
+300,LG Product 300,TV,LG,62755
+301,Tata Product 301,Groceries,Tata,50496
+302,Whirlpool Product 302,Home Appliances,Whirlpool,11494
+303,Nike Product 303,Footwear,Nike,96110
+304,Sony Product 304,TV,Sony,50249
+305,Puma Product 305,Footwear,Puma,3273
+306,JBL Product 306,Headphones,JBL,90324
+307,Boat Product 307,Headphones,Boat,52484
+308,Xiaomi Product 308,Mobile,Xiaomi,29443
+309,Oppo Product 309,Mobile,Oppo,54916
+310,Whirlpool Product 310,Home Appliances,Whirlpool,46405
+311,Fortune Product 311,Groceries,Fortune,3815
+312,IFB Product 312,Home Appliances,IFB,41962
+313,Puma Product 313,Footwear,Puma,3573
+314,Samsung Product 314,TV,Samsung,97271
+315,Adidas Product 315,Footwear,Adidas,53583
+316,Aashirvaad Product 316,Groceries,Aashirvaad,85459
+317,Whirlpool Product 317,Home Appliances,Whirlpool,89240
+318,Levis Product 318,Fashion,Levis,68253
+319,JBL Product 319,Headphones,JBL,3698
+320,LG Product 320,Home Appliances,LG,60493
+321,Whirlpool Product 321,Home Appliances,Whirlpool,93279
+322,LG Product 322,Home Appliances,LG,29424
+323,Samsung Product 323,TV,Samsung,61363
+324,LG Product 324,Home Appliances,LG,62774
+325,LG Product 325,Home Appliances,LG,29095
+326,Nike Product 326,Footwear,Nike,6651
+327,Vivo Product 327,Mobile,Vivo,19224
+328,Apple Product 328,Mobile,Apple,39008
+329,Sony Product 329,Headphones,Sony,71690
+330,Boat Product 330,Headphones,Boat,38639
+331,Apple Product 331,Laptop,Apple,27549
+332,Puma Product 332,Footwear,Puma,62124
+333,Sony Product 333,Headphones,Sony,31529
+334,Adidas Product 334,Footwear,Adidas,47563
+335,Puma Product 335,Footwear,Puma,25812
+336,IFB Product 336,Home Appliances,IFB,3816
+337,Sony Product 337,Headphones,Sony,58141
+338,Boat Product 338,Headphones,Boat,77964
+339,Nike Product 339,Footwear,Nike,27489
+340,Boat Product 340,Headphones,Boat,19016
+341,JBL Product 341,Headphones,JBL,89725
+342,LG Product 342,TV,LG,12779
+343,Xiaomi Product 343,Mobile,Xiaomi,69384
+344,Levis Product 344,Fashion,Levis,17052
+345,Vivo Product 345,Mobile,Vivo,26469
+346,Nike Product 346,Footwear,Nike,66458
+347,Tata Product 347,Groceries,Tata,9646
+348,LG Product 348,TV,LG,52666
+349,LG Product 349,Home Appliances,LG,63340
+350,Dell Product 350,Laptop,Dell,35052
+351,Sony Product 351,TV,Sony,7611
+352,Apple Product 352,Laptop,Apple,45929
+353,Puma Product 353,Fashion,Puma,87224
+354,JBL Product 354,Headphones,JBL,66060
+355,Boat Product 355,Headphones,Boat,59143
+356,Samsung Product 356,TV,Samsung,81324
+357,Levis Product 357,Fashion,Levis,67811
+358,Nike Product 358,Fashion,Nike,58206
+359,Vivo Product 359,Mobile,Vivo,79868
+360,Sony Product 360,Headphones,Sony,43358
+361,Xiaomi Product 361,Mobile,Xiaomi,60476
+362,OnePlus Product 362,Mobile,OnePlus,69056
+363,Puma Product 363,Fashion,Puma,3860
+364,Nike Product 364,Footwear,Nike,29646
+365,Fortune Product 365,Groceries,Fortune,4327
+366,Adidas Product 366,Footwear,Adidas,41601
+367,IFB Product 367,Home Appliances,IFB,50860
+368,Nike Product 368,Fashion,Nike,39941
+369,Aashirvaad Product 369,Groceries,Aashirvaad,12693
+370,Oppo Product 370,Mobile,Oppo,45227
+371,Aashirvaad Product 371,Groceries,Aashirvaad,69763
+372,Fortune Product 372,Groceries,Fortune,32046
+373,LG Product 373,TV,LG,39209
+374,Asus Product 374,Laptop,Asus,98203
+375,HP Product 375,Laptop,HP,67553
+376,Puma Product 376,Footwear,Puma,1386
+377,Sony Product 377,Headphones,Sony,10390
+378,Puma Product 378,Fashion,Puma,79588
+379,Sony Product 379,TV,Sony,5228
+380,JBL Product 380,Headphones,JBL,85391
+381,Adidas Product 381,Footwear,Adidas,36292
+382,Sony Product 382,TV,Sony,21266
+383,IFB Product 383,Home Appliances,IFB,73882
+384,LG Product 384,TV,LG,14284
+385,Apple Product 385,Mobile,Apple,2978
+386,Fortune Product 386,Groceries,Fortune,33685
+387,Nike Product 387,Footwear,Nike,33710
+388,Samsung Product 388,TV,Samsung,40120
+389,Nike Product 389,Fashion,Nike,73491
+390,LG Product 390,TV,LG,86823
+391,Sony Product 391,Headphones,Sony,13478
+392,OnePlus Product 392,Mobile,OnePlus,57193
+393,Lenovo Product 393,Laptop,Lenovo,39498
+394,JBL Product 394,Headphones,JBL,73393
+395,Sony Product 395,TV,Sony,42629
+396,Oppo Product 396,Mobile,Oppo,64150
+397,Aashirvaad Product 397,Groceries,Aashirvaad,6593
+398,Fortune Product 398,Groceries,Fortune,86645
+399,IFB Product 399,Home Appliances,IFB,39363
+400,Whirlpool Product 400,Home Appliances,Whirlpool,28314
+401,Tata Product 401,Groceries,Tata,8724
+402,Dell Product 402,Laptop,Dell,46236
+403,LG Product 403,Home Appliances,LG,1862
+404,JBL Product 404,Headphones,JBL,20965
+405,Nike Product 405,Fashion,Nike,35013
+406,LG Product 406,Home Appliances,LG,66901
+407,Dell Product 407,Laptop,Dell,23822
+408,Adidas Product 408,Footwear,Adidas,76566
+409,Aashirvaad Product 409,Groceries,Aashirvaad,29822
+410,Sony Product 410,TV,Sony,62396
+411,Lenovo Product 411,Laptop,Lenovo,81091
+412,Puma Product 412,Footwear,Puma,14319
+413,Nike Product 413,Footwear,Nike,83872
+414,Boat Product 414,Headphones,Boat,71756
+415,LG Product 415,TV,LG,73827
+416,Tata Product 416,Groceries,Tata,12745
+417,Whirlpool Product 417,Home Appliances,Whirlpool,72824
+418,Xiaomi Product 418,Mobile,Xiaomi,49201
+419,Puma Product 419,Footwear,Puma,98227
+420,Tata Product 420,Groceries,Tata,82746
+421,Sony Product 421,Headphones,Sony,48530
+422,Whirlpool Product 422,Home Appliances,Whirlpool,95404
+423,Adidas Product 423,Footwear,Adidas,24598
+424,Nike Product 424,Footwear,Nike,48435
+425,Tata Product 425,Groceries,Tata,37734
+426,Boat Product 426,Headphones,Boat,72684
+427,Asus Product 427,Laptop,Asus,8624
+428,Levis Product 428,Fashion,Levis,26858
+429,Tata Product 429,Groceries,Tata,69648
+430,Asus Product 430,Laptop,Asus,79470
+431,IFB Product 431,Home Appliances,IFB,19970
+432,Dell Product 432,Laptop,Dell,46726
+433,Aashirvaad Product 433,Groceries,Aashirvaad,2601
+434,Puma Product 434,Fashion,Puma,54347
+435,Oppo Product 435,Mobile,Oppo,53083
+436,Samsung Product 436,Mobile,Samsung,80919
+437,Aashirvaad Product 437,Groceries,Aashirvaad,97286
+438,LG Product 438,Home Appliances,LG,80780
+439,OnePlus Product 439,Mobile,OnePlus,69981
+440,Aashirvaad Product 440,Groceries,Aashirvaad,9798
+441,Nike Product 441,Fashion,Nike,32648
+442,Tata Product 442,Groceries,Tata,67696
+443,Boat Product 443,Headphones,Boat,90745
+444,HP Product 444,Laptop,HP,19843
+445,OnePlus Product 445,Mobile,OnePlus,76875
+446,Sony Product 446,TV,Sony,40705
+447,LG Product 447,Home Appliances,LG,15087
+448,Boat Product 448,Headphones,Boat,39355
+449,Boat Product 449,Headphones,Boat,40587
+450,Sony Product 450,Headphones,Sony,40957
+451,Levis Product 451,Fashion,Levis,24991
+452,Boat Product 452,Headphones,Boat,75359
+453,Puma Product 453,Fashion,Puma,84594
+454,Fortune Product 454,Groceries,Fortune,93260
+455,Aashirvaad Product 455,Groceries,Aashirvaad,75207
+456,Sony Product 456,Headphones,Sony,50024
+457,Aashirvaad Product 457,Groceries,Aashirvaad,88941
+458,Levis Product 458,Fashion,Levis,77029
+459,Nike Product 459,Fashion,Nike,71909
+460,LG Product 460,Home Appliances,LG,51679
+461,LG Product 461,TV,LG,63955
+462,Puma Product 462,Fashion,Puma,65119
+463,Nike Product 463,Footwear,Nike,51796
+464,Samsung Product 464,Mobile,Samsung,9227
+465,Nike Product 465,Footwear,Nike,95644
+466,Fortune Product 466,Groceries,Fortune,2414
+467,Oppo Product 467,Mobile,Oppo,88828
+468,Asus Product 468,Laptop,Asus,50087
+469,Fortune Product 469,Groceries,Fortune,76486
+470,LG Product 470,TV,LG,9703
+471,Xiaomi Product 471,Mobile,Xiaomi,46005
+472,Nike Product 472,Fashion,Nike,83063
+473,HP Product 473,Laptop,HP,21379
+474,Puma Product 474,Fashion,Puma,80289
+475,Aashirvaad Product 475,Groceries,Aashirvaad,73783
+476,LG Product 476,TV,LG,87948
+477,HP Product 477,Laptop,HP,19110
+478,Puma Product 478,Fashion,Puma,51789
+479,HP Product 479,Laptop,HP,99581
+480,Tata Product 480,Groceries,Tata,2882
+481,Xiaomi Product 481,Mobile,Xiaomi,13971
+482,Tata Product 482,Groceries,Tata,78201
+483,OnePlus Product 483,Mobile,OnePlus,93203
+484,LG Product 484,TV,LG,83527
+485,Sony Product 485,TV,Sony,8138
+486,LG Product 486,Home Appliances,LG,89318
+487,Apple Product 487,Laptop,Apple,96073
+488,Sony Product 488,Headphones,Sony,27346
+489,Fortune Product 489,Groceries,Fortune,90405
+490,Xiaomi Product 490,Mobile,Xiaomi,39455
+491,LG Product 491,Home Appliances,LG,67538
+492,Aashirvaad Product 492,Groceries,Aashirvaad,97131
+493,Puma Product 493,Fashion,Puma,8591
+494,Apple Product 494,Mobile,Apple,91562
+495,Fortune Product 495,Groceries,Fortune,96543
+496,Aashirvaad Product 496,Groceries,Aashirvaad,5829
+497,JBL Product 497,Headphones,JBL,59506
+498,Oppo Product 498,Mobile,Oppo,61800
+499,Sony Product 499,Headphones,Sony,81457
+500,Puma Product 500,Fashion,Puma,63153

@@ -1,32 +1,36 @@
-from faker import Faker
+print("Script Started")
+
+import sqlite3
 import pandas as pd
-import random
 
-fake = Faker()
+conn = sqlite3.connect("retail.db")
 
-customers = []
+print("Database Connected")
 
-for i in range(1, 101):
-    customers.append([
-        i,
-        fake.name(),
-        fake.city(),
-        fake.state()
-    ])
+queries = {
+    "Total Orders":
+        "SELECT COUNT(*) AS total_orders FROM sales",
 
-df = pd.DataFrame(
-    customers,
-    columns=[
-        "customer_id",
-        "name",
-        "city",
-        "state"
-    ]
-)
+    "Total Revenue":
+        "SELECT SUM(sale_amount) AS total_revenue FROM sales",
 
-df.to_csv(
-    "data/source/customers.csv",
-    index=False
-)
+    "Total Customers":
+        "SELECT COUNT(*) AS total_customers FROM customers",
 
-print("Customers data created")
+    "Total Products":
+        "SELECT COUNT(*) AS total_products FROM products"
+}
+
+for report_name, query in queries.items():
+
+    print("\n" + "="*40)
+    print(report_name)
+    print("="*40)
+
+    df = pd.read_sql(query, conn)
+
+    print(df)
+
+conn.close()
+
+print("\nReports Generated Successfully")
